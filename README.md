@@ -2,7 +2,7 @@
 
 ## Outcome
 
-Reduce monthly reporting effort from 8 hours to 1 hour within 90 days while improving reporting accuracy, visibility, and decision-making.
+Reduce monthly reporting effort from 8 hours to 1 hour while improving reporting accuracy, visibility, and decision-making.
 
 ---
 
