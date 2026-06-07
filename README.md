@@ -1,4 +1,4 @@
-# Reporting Automation Workflow
+![Reporting Automation Workflow](images/workflow-diagram.png)
 
 ## Outcome
 
